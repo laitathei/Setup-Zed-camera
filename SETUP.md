@@ -18,7 +18,7 @@
 chmod +x ZED_SDK_Linux_*.run
 ./ZED_SDK_Linux_*.run
 ```
-# If ZED SDK said that want to update your CUDA version automatically, don't type yes otherwise otherwise your may not able to open ubuntu system anymore 
+# If ZED SDK said that want to update your CUDA version automatically, don't type yes otherwise your may not able to open ubuntu system anymore 
 #### The best way is to check your current CUDA version in command line first.
 
 ```XML
